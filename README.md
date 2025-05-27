@@ -1,7 +1,5 @@
 # SocialPrediction_AnimatedShapesTest
 
-# Experimental Stimuli for [Study Title]
-
 This repository contains the experimental stimuli used in the study:
 
 **"[Full Preprint or Paper Title]"**  
