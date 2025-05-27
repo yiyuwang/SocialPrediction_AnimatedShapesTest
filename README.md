@@ -11,7 +11,7 @@ Available as a preprint on [LINK]:
 
 ---
 
-## 📦 Contents
+## Usage
 
 The stimuli are organized into the following folders:
 
@@ -24,16 +24,12 @@ The stimuli are organized into the following folders:
 Each video has a unique video number to match for cue and feedback videos.
 
 
----
-
-## 🧪 Usage
-
 These stimuli were used to examine possible neural instantiation of the predictive processing in the social cognition domain.  
 Please refer to the **Methods** section in the preprint for detailed information on how the stimuli were used in the task.
 
 ---
 
-## 📖 Citation
+## Citation
 
 If you use these stimuli in your work, please cite our study:
 
