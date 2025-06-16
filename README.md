@@ -30,9 +30,6 @@ Please refer to the **Methods** section in the preprint for detailed information
 
 If you use these stimuli in your work, please cite our study:
 
-
-BibTeX:
-
 ```bibtex
 @article{wang2025disentangling,
   title={Disentangling Prediction and Feedback in Social Brain Networks: A Predictive Processing Approach},
