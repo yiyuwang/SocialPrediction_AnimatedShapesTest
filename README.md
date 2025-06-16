@@ -39,7 +39,7 @@ If you use these stimuli in your work, please cite our study:
   year={2025},
   publisher={Cold Spring Harbor Laboratory}
 }
-
+```
 
 For questions or to request, please contact a.satpute@northeastern.edu or yiyuwang@stanford.edu
 
