@@ -5,7 +5,7 @@ This repository contains the experimental stimuli used in the study:
 **Disentangling Prediction and Feedback in Social Brain Networks: A Predictive Processing Approach**  
 
 by Yiyu Wang, Juliet Y. Davidow, Richard D. Lane, Ajay B. Satpute  
-Available as a preprint on [bioRxiv] (https://www.biorxiv.org/content/10.1101/2025.06.10.658968v1)
+Available as a preprint on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.10.658968v1)
 
 ---
 
